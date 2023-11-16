@@ -6,8 +6,8 @@ data cleaning and preparation in RStudio (R v4.1.2)
 
 Jupyter Notebook for machine leaning in Python 3.10.4
 
-## Usage
-TBA
+## Description
+It has two parts: 1) data cleaning and preparation for machine learning, 2) machine learning pipeline
 
 ## Citation
 TBA
