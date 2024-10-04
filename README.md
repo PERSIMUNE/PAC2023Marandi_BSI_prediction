@@ -9,7 +9,7 @@ Jupyter Notebook for machine leaning in Python 3.10.4
 ## Description
 Firstly, data cleaning and preparation for machine learning are performed using a script called data_cleaning.R. This script handles basic data cleaning tasks to ensure that only the necessary variables and rows are retained for analysis. Following this, another script called data_clean_07022024_pub.ipynb is run, which conducts more detailed data cleaning tasks including merging three datasets. Additionally, this step involves splitting the data by patients.
 
-Secondly, the cleaned datasets (devset and testset) are utilized for machine learning analyses using a script named BSI_07022024_pub.ipynb. These scripts are extensively commented to ensure readability, and they also provide extra analysis options beyond those reported in the paper.
+Secondly, the cleaned datasets (devset and testset) are utilized for machine learning analyses using a script named MAIT_BSI_27092024pub.ipynb. These scripts are extensively commented to ensure readability, and they also provide extra analysis options beyond those reported in the paper.
 
 ## Citation
 TBA
